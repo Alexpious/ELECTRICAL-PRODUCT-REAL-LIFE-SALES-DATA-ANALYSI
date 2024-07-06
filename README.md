@@ -3,11 +3,10 @@ Electrical Product Sales Analysis Project
 Project Overview:
 This project involves a comprehensive analysis of electrical product sales data. The process includes data cleaning, exploring insights, performing data exploration, creating visualizations, and developing a dashboard, all using Excel. Additionally, a PowerPoint presentation is provided with recommendations and a detailed write-up.
 
+
 Project Steps
 
-Data Cleaning
-
-Remove duplicates
+1. Data Cleaning : Remove duplicates
 
 Handle missing values
 
@@ -23,16 +22,16 @@ Understand customer behavior
 
 
 
-Visualization
 
-Create charts and graphs to represent data
+
+2. Visualization :Create charts and graphs to represent data
 Use pivot tables for detailed analysis
 
 Develop a dashboard for an overview of key metrics
 
 
 
-Dashboard
+3. Dashboard
 Integrate various visualizations into a single dashboard
 
 Highlight key insights and trends
@@ -41,7 +40,7 @@ Make the dashboard interactive for better user experience
 
 
 
-Recommendations and Write-Up
+4. Recommendations and Write-Up
 
 Provide actionable insights based on data analysis
 
