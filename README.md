@@ -8,45 +8,44 @@ Project Steps
 
 1. Data Cleaning : Remove duplicates
 
-Handle missing values
+- Handle missing values
 
-Standardize data formats
+- Standardize data formats
 
-Data Exploration and Insights
+- Data Exploration and Insights
 
-Identify key sales trends
+- Identify key sales trends
 
-Analyze product performance
+- Analyze product performance
 
-Understand customer behavior
+- Understand customer behavior
 
 
 
 
 
 2. Visualization :Create charts and graphs to represent data
-Use pivot tables for detailed analysis
+- Use pivot tables for detailed analysis
 
-Develop a dashboard for an overview of key metrics
+- Develop a dashboard for an overview of key metrics
 
 
 
-3. Dashboard
-Integrate various visualizations into a single dashboard
+3. Dashboard : Integrate various visualizations into a single dashboard
 
-Highlight key insights and trends
+- Highlight key insights and trends
 
-Make the dashboard interactive for better user experience
+- Make the dashboard interactive for better user experience
 
 
 
 4. Recommendations and Write-Up
 
-Provide actionable insights based on data analysis
+- Provide actionable insights based on data analysis
 
-Offer recommendations for improving sales and marketing strategies
+- Offer recommendations for improving sales and marketing strategies
 
-Include a detailed write-up in the PowerPoint presentation
+- Include a detailed write-up in the PowerPoint presentation
 
 
 Project Files
